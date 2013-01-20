@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/translucent_black"
+    android:gravity="left"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/TextView08"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress1"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <TextView
+        android:id="@+id/TextView07"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress2"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <TextView
+        android:id="@+id/TextView06"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress3"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <TextView
+        android:id="@+id/TextView05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress4"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <TextView
+        android:id="@+id/TextView04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress5"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <Button
+        android:id="@+id/phone_button1"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:padding="1dip"
+        android:paddingBottom="1dip"
+        android:paddingLeft="1dip"
+        android:paddingRight="1dip"
+        android:paddingTop="1dip"
+        android:text="@string/info_phone_name1" />
+
+    <Button
+        android:id="@+id/phone_button2"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:padding="1dip"
+        android:paddingBottom="1dip"
+        android:paddingLeft="1dip"
+        android:paddingRight="1dip"
+        android:paddingTop="1dip"
+        android:text="@string/info_phone_name2" />
+
+    <Button
+        android:id="@+id/site_button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:paddingBottom="1dip"
+        android:paddingLeft="1dip"
+        android:paddingRight="1dip"
+        android:paddingTop="1dip"
+        android:text="@string/info_site_name3" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress6"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress7"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:text="@string/impress8"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+    <Button
+        android:id="@+id/site_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/info_site_name2" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:paddingBottom="10dip"
+        android:paddingLeft="1dip"
+        android:paddingRight="1dip"
+        android:paddingTop="10dip"
+        android:text="@string/impress9"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/info_text" />
+
+</LinearLayout>

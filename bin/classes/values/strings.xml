@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hansa Radio</string>
+    <string name="app_description">FC Hansa Rostock Fanradio</string>
+    <string name="tab_name_HD1">Live 1</string>
+    <string name="tab_name_HD2">Live 2</string>
+    <string name="tab_name_podcasts">Podcasts</string>
+    <string name="tab_name_info">Option</string>
+    <string name="tab_name_impressum">Impressum</string>
+    <string name="stream_url_HD1">http://83.169.61.36:8000/1130087.mp3</string>
+    <string name="stream_url_HD2">http://83.169.61.36:8000/1130087.mp3</string>
+    <string name="stream_pls_HD1">http://83.169.61.36:8000/1130087.mp3.m3u</string>
+    <string name="stream_pls_HD2">http://83.169.61.36:8000/1130087.mp3.m3u</string>
+    <string name="button_control_play">Play</string>
+    <string name="button_control_pause">Pause</string>
+    <string name="button_control_stop">Stop</string>
+    <string name="button_control_loading">Lade...</string>    
+    <string name="info_text">Bitte beachtet das das Hansa Radio nur zu den Spielen Online ist.</string>
+	<string name="info_url">http://www.fc-hansa.de/index.php?id=395</string>
+	<string name="info_url2">http://www.hansa-radio.de/</string>
+	<string name="info_site_name">http://www.fc-hansa.de/index.php?id=395</string>
+	<string name="info_site_name2">http://www.hansa-radio.de/</string>
+	<string name="info_phone_no">tel:00000</string>
+	<string name="info_phone_name">test: 00000</string>
+	<string name="ad_zone_url">http://adurl</string>
+	<string name="playbg">Abspielen im Hintergrund Aktivieren.</string>
+	<string name="bg_play_notification_on">Abspielen im Hintergrund eingeschaltet!</string>
+	<string name="bg_play_notification_off">Abspielen im Hintergrund ausgeschaltet! \n Gehe in \'Option\' zum einschalten.</string>
+	<string name="network_error">Netwerk Fehler: Prüfe deine Verbindung und versuche es erneut!</string>
+	<string name="info_text2">Die App Hansa Radio nutzt die Datenverbindung deines Geräts um den Audiostream zu suchen und/oder ihn abzuspielen! Bitte vergiss nicht, dass Datenverkehr kosten verursachen kann wenn keine Handy-flatrate oder ein eigenes/kostenfreies Wlan genutzt wird.</string>
+	<string name="info_text3">Der Stream wird vom FC Hansa Rostock zur Verfügung gestellt! Weitere Informationen finden Sie hier:</string>
+	<string name="impress1">Silvio Thiess</string>
+	<string name="impress2">suchmaschinenoptimierung-chemnitz.com</string>
+	<string name="impress3">Ernst Enge Strasse 124</string>
+	<string name="impress4">09127 Chemnitz</string>
+	<string name="impress5">Sachsen</string>
+	<string name="info_phone_no1">tel:03717750167</string>
+	<string name="info_phone_name1">Tel.: 0371 / 775 0167</string>
+	<string name="info_phone_no2">tel:01626539940</string>
+	<string name="info_phone_name2">Tel.: 0162 / 653 9940</string>
+	<string name="info_site_name3">www.suchmaschinenoptimierung-chemnitz.com</string>
+	<string name="info_url3">http://www.suchmaschinenoptimierung-chemnitz.com/</string>
+<string name="impress6">E-Mail: silvio ( at ) suchmaschinenoptimierung-chemnitz.com</string>
+<string name="impress7">Umsatzsteuer ID: DE 227962442</string>
+<string name="impress8">Finanzamt Chemnitz Mitte</string>
+<string name="impress9">Programmierung Dennis Thiess</string>
+
+</resources>
+

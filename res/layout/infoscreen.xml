@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@color/translucent_black" android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dip"
+        android:text="@string/info_text"
+        android:textColor="@color/info_text" />
+
+	<CheckBox
+	    android:id="@+id/bg_checkbox"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:paddingBottom="5dip"
+	    android:paddingLeft="50dip"
+	    android:paddingRight="5dip"
+	    android:paddingTop="10dip"
+	    android:text="@string/playbg" />
+
+	<TextView
+	    android:id="@+id/textView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:padding="10dip"
+	    android:text="@string/info_text3"
+	    android:textAppearance="?android:attr/textAppearanceSmall"
+	    android:textColor="@color/info_text" />
+
+	<Button android:id="@+id/site_button" android:layout_height="wrap_content"
+		android:layout_width="wrap_content" android:text="@string/info_site_name"
+		android:layout_gravity="center_horizontal" />
+
+	<TextView
+	    android:id="@+id/info_text2"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="10dip"
+	    android:text="@string/info_text2"
+	    android:textColor="@color/info_text" />
+
+</LinearLayout>
